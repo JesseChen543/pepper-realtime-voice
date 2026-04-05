@@ -96,6 +96,10 @@ Part of the Wonderbyte Pepper Project ecosystem:
 - [Full dashboard](https://github.com/JesseChen543/pepper-robot-dashboard)
 - [YouTube player](https://github.com/JesseChen543/pepper-youtube-player)
 
+## Keywords
+
+`pepper robot` `softbank pepper` `naoqi` `naoqi python` `pepper voice` `robot voice` `text to speech` `openai realtime api` `realtime voice` `ai voice` `robot tts` `speech streaming` `humanoid robot` `social robot` `python robotics` `ALTextToSpeech` `websocket`
+
 ## License
 
 MIT

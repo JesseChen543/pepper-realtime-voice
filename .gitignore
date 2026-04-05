@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+venv_pepper/
+env/
+ENV/
+
+# Environment / secrets — NEVER commit .env (it contains API keys)
+.env
+*.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.bak
+temp/
+tmp/
